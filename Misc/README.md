@@ -1,4 +1,4 @@
-# OOPD-Assignments
+# OOSD-Assignments
 This contains the assignments for the course OOPD.
 The following is a small description of assignments:
 
