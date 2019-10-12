@@ -1,0 +1,6 @@
+Sample:
+Single_letter:g h a d s i u p o r n t v w x y z q m l k j f e c b 
+Repeats:gg aa dd hh 
+Encrypted:
+Single_letter:j a d g s k o i c b f e h y x w v u z t r q p n m l 
+Repeats:jj bb cc aa 

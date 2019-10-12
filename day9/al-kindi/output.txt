@@ -1,0 +1,8 @@
+Sample:
+Single_letter:b a c f d e g h z y x w v u t s r q p o n m l k j i 
+Repeats:bb aa cc 
+Bigrams:ab bc cc cf de 
+Encrypted:
+Single_letter:j a d g s k o i c b f e h y x w v u z t r q p n m l 
+Repeats:jj bb cc aa 
+Bigrams:aa ab af ag as 
