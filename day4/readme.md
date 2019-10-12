@@ -15,12 +15,19 @@ Q2. Translate your earlier lab assignment of implementing an AVL tree, to Java. 
 Q3. Write a code that reads from a file input.txt a square matrix. It should then check if the matrix is the adjacency matrix of a simple graph. If yes, it should output a vertex cover of optimum size. For example, suppose the input is the following:
 
 0 1 1 1 1 1 1
+
 1 0 0 0 1 0 0
+
 1 0 0 0 1 0 0
+
 1 0 0 0 1 0 0
+
 1 1 1 1 0 1 1
+
 1 0 0 0 1 0 0
+
 1 0 0 0 1 0 0
+
 
 then in a file named output.txt, your code should write:
 Size of min VC = 2
