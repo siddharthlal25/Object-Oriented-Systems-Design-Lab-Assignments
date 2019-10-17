@@ -31,12 +31,12 @@ int main()
         }
     }
         
-    for(int i = 1;i<=n;i++)
-    {
-        for(int j = 1;j<=w;j++)
-            cout<<dp[i][j]<<" ";
-        cout<<endl;
-    }
+//     for(int i = 1;i<=n;i++)
+//     {
+//         for(int j = 1;j<=w;j++)
+//             cout<<dp[i][j]<<" ";
+//         cout<<endl;
+//     }
     i = n; j = w; val = dp[n][w];
     cout<<"Objects:";
     while(i > 0 && j > 0 && val > 0)
