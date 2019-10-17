@@ -29,12 +29,12 @@ int main()
     
     cout<<"length of LCS:"<<dp[siz_a][siz_b]<<endl;
     string result;
-    for(int i = 1;i<=siz_a;i++)
-    {
-        for(int j = 1;j<=siz_b;j++)
-            cout<<dp[i][j]<<" ";
-        cout<<endl;
-    }
+//     for(int i = 1;i<=siz_a;i++)
+//     {
+//         for(int j = 1;j<=siz_b;j++)
+//             cout<<dp[i][j]<<" ";
+//         cout<<endl;
+//     }
     int i = siz_a; int j = siz_b; 
     while (i > 0 && j > 0) 
     { 
